@@ -1,0 +1,34 @@
+[{
+    "_id": {
+      "$oid": "660ea74f7b4c07affb853189"
+    },
+    "code": "1",
+    "name": "Mac book pro",
+    "description": "The best in entertainment. Access a world of movies, TV and apps, and enjoy every moment in picture quality that goes beyond Full HD. With X-Reality PRO, you will enjoy stunning clarity, sharpness and a more refined picture.",
+    "price": 1110.99,
+    "quantity": 5,
+    "image": "macpro.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "660ea74f7b4c07affb85318a"
+    },
+    "code": "2",
+    "name": "Desktop",
+    "description": "Features an advanced LED Backlight Design which pro duces a wider color range Local Dimming along with the Black Graduation Drive to delivery great blacks in your video Super Bright Panel helping to brighten up the content XUMO Discovery Screen.",
+    "price": 800.99,
+    "quantity": 5,
+    "image": "Desktop.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "660ea74f7b4c07affb85318b"
+    },
+    "code": "3",
+    "name": "iphone",
+    "description": "Features an advanced LED Backlight Design which pro duces a wider color range Local Dimming along with the Black Graduation Drive to delivery great blacks in your video Super Bright Panel helping to brighten up the content XUMO Discovery Screen.",
+    "price": 800.99,
+    "quantity": 5,
+    "image": "iphone.jpg"
+  }
+]
